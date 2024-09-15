@@ -38,7 +38,7 @@ const showMessage = (message, sender) => {
 const greetUser = () => {
   // Here we call the function showMessage, that we declared earlier with the argument:
   // "Hello there, what's your name?" for message, and the argument "bot" for sender
-  showMessage("Hello there, what's your name?", 'bot')
+  showMessage("Hello there! My name is Sparkles ✨ I'm here to boost your mood 🚀 Don't be a stranger, share your name with me.", 'bot')
   // Just to check it out, change 'bot' to 'user' here 👆 and see what happens
 }
 
